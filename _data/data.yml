@@ -8,13 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Harisankar PN
-    tagline: DevOps and Cloud Manager
+    name: Harisankar
+    tagline: Cloud Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pnharisankar@outlook.com    
-    mobile: 91-9600124898
+    mobile: +919600124898
     timezone: Asia/Kolkatta # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     linkedin: pnharisankar
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
