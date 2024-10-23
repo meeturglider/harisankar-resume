@@ -17,7 +17,7 @@ sidebar:
     phone: +91-9600124898
     timezone: Asia/Kolkatta # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     linkedin: harisankarpn
-    pdf: https://github.com/meeturglider/harisankar-resume/blob/master/_data/Resume.pdf
+    pdf: https://github.com/meeturglider/harisankar-resume/master/_data/Resume.pdf
 
     Skill:
       title: Skills
