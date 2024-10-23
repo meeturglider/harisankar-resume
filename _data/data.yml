@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: pnharisankar@outlook.com    
-    mobile: +91-9600124898
+    phone: +91-9600124898
     timezone: Asia/Kolkatta # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     linkedin: harisankarpn
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -62,6 +62,25 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: GCP and AWS
+        level: 98%
+
+      - name: DevOps
+        level: 98%
+
+      - name: Linux
+        level: 98%
+
+      - name: Python and Shell
+        level: 95%
+
+      - name: Terraform
+        level: 95%
 
 experiences:
     title: Experiences
