@@ -19,6 +19,9 @@ sidebar:
     linkedin: harisankarpn
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+    Skill:
+      title: Skills
+      
     languages:
       title: Languages
       info:
