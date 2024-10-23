@@ -9,14 +9,14 @@ sidebar:
 
     # Profile information
     name: Harisankar
-    tagline: Cloud Manager
+    tagline: Sr.Cloud Manager
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pnharisankar@outlook.com    
-    mobile: +919600124898
+    mobile: +91-9600124898
     timezone: Asia/Kolkatta # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    linkedin: pnharisankar
+    linkedin: harisankarpn
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
