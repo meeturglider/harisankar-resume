@@ -52,24 +52,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: GCP and AWS
-        level: 98%
-
-      - name: DevOps
-        level: 98%
-
-      - name: Linux
-        level: 98%
-
-      - name: Python and Shell
-        level: 95%
-
-      - name: Terraform
-        level: 95%
 
 experiences:
     title: Experiences
@@ -225,23 +207,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: GCP and AWS
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: DevOps
         level: 98%
 
-      - name: Angular
+      - name: Linux
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Python and Shell
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Terraform
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
