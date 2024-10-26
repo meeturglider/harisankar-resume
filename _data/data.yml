@@ -31,12 +31,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        An IT professional with 14 years experience in Linux and Public Cloud.
+        A dedicated leader of handling GCP operations across regions. 
+        Rich experience on DevOps concepts and proficient on automating the tasks in cloud via terraform and ansible.
+        Certified Professional Architect and Professional DevOps from GCP.
+Engineer from GCP.
 education:
     title: Education
     info:
