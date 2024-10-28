@@ -31,10 +31,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        An IT professional with 14 years experience in Linux and Public Cloud.
-        A dedicated leader of handling GCP operations across regions. 
-        Rich experience on DevOps concepts and proficient on automating the tasks in cloud via terraform and ansible.
-        Certified Professional Architect and Professional DevOps from GCP.
+        14+ Years of Proven Expertise in Linux, DevOps, and Public Cloud
+        A seasoned technology professional with a strong foundation in Linux administration, DevOps engineering, and cloud architecture. Possesses a deep understanding of automation, configuration management, and containerization technologies. 
+        Proven ability to design, implement, and manage complex IT infrastructures. 
+        
+        Key Skills and Experience:
+        
+        Linux Systems Administration: Proficiency in Red Hat Enterprise Linux, Ubuntu, and CentOS. Expertise in system installation, configuration, troubleshooting, and performance optimization.
+        DevOps Engineering: Mastery of DevOps principles and practices. Experience with CI/CD pipelines (Jenkins), automation tools (Ansible), configuration management tools (Git, SVN), and container orchestration platforms (Kubernetes, Docker).
+        Public Cloud: In-depth knowledge of AWS, and GCP. Expertise in cloud architecture, migration, and management. Proficient in IaC tools (Terraform, CloudFormation), serverless computing, and cloud-native applications.
+        Technical Leadership: Proven ability to lead and mentor teams, manage projects, and deliver solutions on time and within budget. Strong communication and problem-solving skills.
 
 education:
     title: Education
@@ -44,13 +50,7 @@ education:
         college: Francis Xavier Engineering College, Tirunelveli
         time: 2006 - 2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Completed 
 
 experiences:
     title: Experiences
