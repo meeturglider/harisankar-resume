@@ -57,64 +57,43 @@ experiences:
         time: Aug,24 - Present
         company: Cognizant Technology Solutions, Hyderabad
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Guiding the entire GCP operations team – India on prompt delivery and meeting the operational goals and metrics.
+            - Assumed Transitioned Lead and assisting team on the technical aspects before acquisition and handling client requests across world.
+            - Derived new strategic plan to align with the business and helping to enhance the operation efficiency.
+            - Assisting training team on strengthening the root and the new hires with a new adaptive learning program.
 
+      - role: Technical Lead
+        time: Oct,21 - Aug,4
+        company: Google Operations Center, Hyderabad
+        details: |
+            - Leading and mentoring the team of 20 Engineers in GCP issues across different specializations.
+            - Helping team on Escalations and complex issues in GCP especially networking related services.
+            - Helping GCP top_tier customers on integrating security best practices in their current architecture.
+            - Manage the people's requests via workday and gauge their performance via regular check-ins.
+            - Responsible for presenting Business Reviews to the stakeholders and set new targets for the team.
+            - Driving Initiatives that primarily target automation and FTE savings.
+
+      - role: Engineering Architect
+        time: Oct,17 - Oct,21
+        company: Cisco Systems, Chennai
+        details: |
+            - Handled DevOps team and write scripts to build wrappers around dev code.
+            - Responsible for setup CI/CD for all webex related deployments via cloudBees Jenkins.
+            - Independently converted a monolithic old application into micro application and deployed as docker based.
+            - Setup Dev and Staging in GCP and extend access to dev & QA team via bastion server amd Jailed process to run custom applications on linux servers.
+            - Setup Envoy, consul from the client side using ansible and terraform
+            
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: Professional Cloud Architect 
+          start: 2024
+          end: 2026
+          organization: Google Cloud
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
         - name: Git learning
           start: 2019
           end:
