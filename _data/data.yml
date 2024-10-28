@@ -82,6 +82,31 @@ experiences:
             - Independently converted a monolithic old application into micro application and deployed as docker based.
             - Setup Dev and Staging in GCP and extend access to dev & QA team via bastion server amd Jailed process to run custom applications on linux servers.
             - Setup Envoy, consul from the client side using ansible and terraform
+
+      - role: Cloud Lead
+        time: May,16 - Sep,17
+        company: SecureKloud ( 8k Miles ), Chennai
+        details: |
+            - Assisting team on creating user accounts for novartis via AWS-CFT and cli using python (boto2).
+            - Create dashboards and custom metrics using cloud watch and Lambda.
+            - Manage logging for all deployed applications and maintained for AWS auditing.
+
+      - role: Cloud Specialist
+        time: June,15 - May,16
+        company: Qruize Technologies, Chennai
+        details: |
+            - Responsible for CliQr support - a hybrid cloud management system.
+            - Handled migrations from on-prem to AWS and setup openstack ( Juno )
+            - Provided L2 and L3 support for connectivity issues such as VPC peering, VPN. 
+
+      - role: Sr.Support Engineer 
+        time: Feb,11 - Oct,14
+        company: Real Image, Chennai
+        details: |
+            - Worked as part of administration team that manages 100+ Unix desktop and servers.
+            - Accountable for encrypting critical files and managing / sharing it via cloud storage. 
+            - Responsible for RHEL servers maintenance and periodical patch updates via authorized satelites. 
+            
             
 certifications:
       title: Certifications
@@ -94,22 +119,21 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
+        - name: Professional Cloud DevOps 
+          start: 2024
+          end: 2026
+          organization: Google Cloud
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          credentialurl: www.google.com
+          credentialname: Google
+
+        - name: Hashicorp certified: Terraform Associate (003)
+          start: 2024
+          end: 2026
+          organization: Hashicorp
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
 
 projects:
     title: Projects
