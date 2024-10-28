@@ -17,7 +17,7 @@ sidebar:
     phone: +91-9600124898
     timezone: Asia/Kolkatta # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     linkedin: harisankarpn
-    pdf: <a href="https://meeturglider.github.io/harisankar-resume/print" download>
+    pdf: https://meeturglider.github.io/harisankar-resume/print
     
     languages:
       title: Languages
@@ -47,9 +47,7 @@ education:
         university: Anna University
         college: Francis Xavier Engineering College, Tirunelveli
         time: 2006 - 2009
-        details: |
-          Completed 
-
+        
 experiences:
     title: Experiences
     info:
@@ -106,8 +104,7 @@ experiences:
             - Worked as part of administration team that manages 100+ Unix desktop and servers.
             - Accountable for encrypting critical files and managing / sharing it via cloud storage. 
             - Responsible for RHEL servers maintenance and periodical patch updates via authorized satelites. 
-            
-            
+                   
 certifications:
       title: Certifications
       list:
