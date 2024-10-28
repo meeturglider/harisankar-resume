@@ -127,7 +127,7 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
 
-        - name: Hashicorp certified: Terraform Associate (003)
+        - name: Hashicorp certified Terraform Associate (003)
           start: 2024
           end: 2026
           organization: Hashicorp
