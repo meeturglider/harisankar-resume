@@ -85,7 +85,7 @@ experiences:
         time: May,16 - Sep,17
         company: SecureKloud ( 8k Miles ), Chennai
         details: |
-            - Assisting team on creating user accounts for novartis via AWS-CFT and cli using python (boto2).
+            - Assisted team on creating user accounts for novartis via AWS-CFT and cli using python (boto2).
             - Create dashboards and custom metrics using cloud watch and Lambda.
             - Manage logging for all deployed applications and maintained for AWS auditing.
 
@@ -147,11 +147,14 @@ skills:
       - name: DevOps
         level: 98%
 
-      - name: Linux
+      - name: ansible  
+        level: 96%
+        
+      - name: Linux and Shell
         level: 98%
 
-      - name: Python and Shell
-        level: 95%
+      - name: Python
+        level: 90%
 
       - name: Terraform
         level: 95%
