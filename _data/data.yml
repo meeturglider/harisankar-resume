@@ -31,7 +31,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        14+ Years of Proven Expertise in Linux, DevOps, and Public Cloud with a strong foundation in Linux administration, DevOps engineering, and cloud architecture. Possesses a deep understanding of automation, configuration management, and containerization technologies.  
+        14+ Years of Proven Expertise in Linux, DevOps, and Public Cloud with a strong foundation in Linux administration, DevOps engineering, and cloud architecture. Possesses a deep understanding of automation, configuration management and containerization technologies.  
         
         Key Skills:
         
@@ -64,9 +64,9 @@ experiences:
         time: Oct,21 - Aug,24
         company: Google Operations Center, Hyderabad
         details: |
-            - Leading and mentoring the team of 20 Engineers in GCP issues across different specializations.
-            - Helping team on Escalations and complex issues in GCP especially networking related services.
-            - Helping GCP top_tier customers on integrating security best practices in their current architecture.
+            - Lead and mentoring the team of 20+ Engineers in GCP issues across different specializations.
+            - Helped team on Escalations and complex issues in GCP especially networking related services.
+            - Helped GCP top_tier customers on integrating security best practices in their current architecture.
             - Manage the people's requests via workday and gauge their performance via regular check-ins.
             - Responsible for presenting Business Reviews to the stakeholders and set new targets for the team.
             - Driving Initiatives that primarily target automation and FTE savings.
@@ -112,9 +112,6 @@ certifications:
           start: 2024
           end: 2026
           organization: Google Cloud
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
 
         - name: Professional Cloud DevOps 
           start: 2024
@@ -129,8 +126,8 @@ certifications:
           end: 2026
           organization: Hashicorp
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: www.hashicorp.com
+          credentialname: Hashicorp
 
 skills:
     title: Skills &amp; Proficiency
