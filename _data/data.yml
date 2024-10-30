@@ -111,23 +111,29 @@ certifications:
         - name: Professional Cloud Architect 
           start: 2024
           end: 2026
+          credentialsurl: www.google.com
           organization: Google Cloud
-
-        - name: Professional Cloud DevOps 
-          start: 2024
-          end: 2026
-          organization: Google Cloud
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
 
         - name: Hashicorp certified Terraform Associate (003)
           start: 2024
           end: 2026
           organization: Hashicorp
-          credentialid: 111-222
           credentialurl: www.hashicorp.com
           credentialname: Hashicorp
+
+        - name: Professional Cloud DevOps 
+          start: 2022
+          end: 2024
+          organization: Google Cloud
+          credentialurl: www.google.com
+          credentialname: Google
+
+        - name: Professional Cloud Architect
+          start: 2021
+          end: 2023
+          Organization: Amazon Web Services
+          credentialurl: https://aws.amazon.com/certification/certified-solutions-architect-professional/
+          credentialname: AWS Certified Professioanl Cloud Architect
 
 skills:
     title: Skills &amp; Proficiency
