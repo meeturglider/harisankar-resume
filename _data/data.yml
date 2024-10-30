@@ -111,6 +111,7 @@ certifications:
         - name: Professional Cloud Architect 
           start: 2024
           end: 2026
+          organization: Google
           credentialsurl: www.google.com
           organization: Google Cloud
 
@@ -133,7 +134,7 @@ certifications:
           end: 2023
           Organization: Amazon Web Services
           credentialurl: https://aws.amazon.com/certification/certified-solutions-architect-professional/
-          credentialname: AWS Certified Professioanl Cloud Architect
+          credentialname: AWS 
 
 skills:
     title: Skills &amp; Proficiency
@@ -155,4 +156,4 @@ skills:
         level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Hari sankar</a>
