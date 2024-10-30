@@ -111,9 +111,9 @@ certifications:
         - name: Professional Cloud Architect 
           start: 2024
           end: 2026
-          organization: Google
-          credentialsurl: www.google.com
           organization: Google Cloud
+          credentialsurl: www.google.com
+          organization: Google
 
         - name: Hashicorp certified Terraform Associate (003)
           start: 2024
@@ -135,6 +135,7 @@ certifications:
           Organization: Amazon Web Services
           credentialurl: https://aws.amazon.com/certification/certified-solutions-architect-professional/
           credentialname: AWS 
+
 
 skills:
     title: Skills &amp; Proficiency
