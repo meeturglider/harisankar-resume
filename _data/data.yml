@@ -48,8 +48,7 @@ education:
     title: Education
     info:
       - degree: BE in Electronics and Communication
-        university: Anna University
-        college: Francis Xavier Engineering College, Tirunelveli
+        university: Francis Xavier Engineering College, Tirunelveli
         time: 2006 - 2009
         
 experiences:
@@ -134,7 +133,7 @@ certifications:
           start: 2021
           end: 2023
           Organization: Amazon Web Services
-          credentialurl: https://aws.amazon.com/certification/certified-solutions-architect-professional/
+          credentialurl: www.aws.amazon.com
 
 
 footer: >
