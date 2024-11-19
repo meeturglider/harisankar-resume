@@ -33,7 +33,7 @@ career-profile:
     summary: |
         14+ Years of Proven Expertise in Linux, DevOps, and Public Cloud with a strong foundation in Linux administration, DevOps engineering, and cloud architecture. Possesses a deep understanding of automation, configuration management and containerization technologies.  
         
-        Key Skills:
+        title: Key Skills:
         
         - Linux Systems Administration: Proficiency in Red Hat Enterprise Linux, Ubuntu, and CentOS. Expertise in system installation, configuration, troubleshooting, and performance optimization.
         - DevOps Engineering: Mastery of DevOps principles and practices. Experience with CI/CD pipelines (Jenkins), automation tools (Ansible), configuration management tools (Git, SVN), and container orchestration platforms (Kubernetes, Docker).
