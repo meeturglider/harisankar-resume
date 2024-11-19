@@ -33,12 +33,16 @@ career-profile:
     summary: |
         14+ Years of Proven Expertise in Linux, DevOps, and Public Cloud with a strong foundation in Linux administration, DevOps engineering, and cloud architecture. Possesses a deep understanding of automation, configuration management and containerization technologies.  
         
-        title: Key Skills:
+        Key Skills:
         
-        - Linux Systems Administration: Proficiency in Red Hat Enterprise Linux, Ubuntu, and CentOS. Expertise in system installation, configuration, troubleshooting, and performance optimization.
-        - DevOps Engineering: Mastery of DevOps principles and practices. Experience with CI/CD pipelines (Jenkins), automation tools (Ansible), configuration management tools (Git, SVN), and container orchestration platforms (Kubernetes, Docker).
-        - Public Cloud: In-depth knowledge of AWS, and GCP. Expertise in cloud architecture, migration, and management. Proficient in IaC tools (Terraform, CloudFormation), serverless computing, and cloud-native applications.
-        - Technical Leadership: Proven ability to lead and mentor teams, manage projects, and deliver solutions on time and within budget. Strong communication and problem-solving skills.
+        - Linux Systems Administration:
+                Proficiency in Red Hat Enterprise Linux, Ubuntu, and CentOS. Expertise in system installation, configuration, troubleshooting, and performance optimization.
+        - DevOps Engineering: 
+                Mastery of DevOps principles and practices. Experience with CI/CD pipelines (Jenkins), automation tools (Ansible), configuration management tools (Git, SVN), and container orchestration platforms (Kubernetes, Docker).
+        - Public Cloud: 
+                In-depth knowledge of AWS, and GCP. Expertise in cloud architecture, migration, and management. Proficient in IaC tools (Terraform, CloudFormation), serverless computing, and cloud-native applications.
+        - Technical Leadership: 
+                Proven ability to lead and mentor teams, manage projects, and deliver solutions on time and within budget. Strong communication and problem-solving skills.
 
 education:
     title: Education
