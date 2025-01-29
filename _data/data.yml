@@ -59,9 +59,10 @@ experiences:
         company: Cognizant Technology Solutions, Hyderabad
         details: |
             - Guiding the GCP operations team – India on prompt delivery and meeting the operational goals and metrics.
-            - Working as Synergy Lead and assisting team on the technical aspects before acquisition and handling client requests across world.
+            - Working as Synergy Lead and assisting team on the technical aspects and handling sites across world.
             - Completed a merger of GCP operations with 400 resources in Romania and TelAviv. 
             - Derived new strategic plan to align with the business and helping to enhance the operation efficiency.
+            - Owning Transformation of manual workflows into automation using vertex AI.
 
       - role: Technical Lead
         time: Oct,21 - Aug,24
@@ -128,7 +129,7 @@ certifications:
           organization: Google Cloud
           credentialurl: www.google.com
 
-        - name: AWS Professional Cloud Architect ( Expired )
+        - name: AWS Professional Cloud Architect ( Due for renewal )
           start: 2021
           end: 2023
           Organization: Amazon Web Services
