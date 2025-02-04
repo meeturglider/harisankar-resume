@@ -137,8 +137,8 @@ certifications:
           Organization: Amazon Web Services
           credentialurl: www.aws.amazon.com
 
-Achievements:
-      title: Achievements
+achievements:
+      title: achievements
       info:
           - Cisco: Worked on converting a monolythic application into docker based application end-end that help me to get the Best performer for the Quarter.
           - GOC: Jump Starter TL award in the first 4 months of joining with Google Operations as wrapped up all challenges and onboarded the team in short span of time. 
