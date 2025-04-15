@@ -119,6 +119,12 @@ certifications:
           organization: Google Cloud
           credentialurl: www.google.com
 
+        - name: Professional Cloud Security Engineer 
+          start: 2025
+          end: 2027
+          organization: Google Cloud
+          credentialurl: www.google.com
+
         - name: Hashicorp certified Terraform Associate (003)
           start: 2024
           end: 2026
